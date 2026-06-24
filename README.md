@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/georgiadoing/GLEAn_manuscript/tree/gh-pages) branch hosts the contents of this directory at <https://georgiadoing.github.io/GLEAn_manuscript/>.
-The permalink for this webpage version is <https://georgiadoing.github.io/GLEAn_manuscript/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/>.
+The permalink for this webpage version is <https://georgiadoing.github.io/GLEAn_manuscript/v/b67cbcdf3c91384488d624085b78ecdc0d9e499e/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://georgiadoing.github.io/GLEAn_manuscript/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`ca748bf4e80a830d7bee69a20b1fae18e028d9e6`](https://github.com/georgiadoing/GLEAn_manuscript/commit/ca748bf4e80a830d7bee69a20b1fae18e028d9e6).
+[`b67cbcdf3c91384488d624085b78ecdc0d9e499e`](https://github.com/georgiadoing/GLEAn_manuscript/commit/b67cbcdf3c91384488d624085b78ecdc0d9e499e).
