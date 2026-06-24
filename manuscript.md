@@ -1,14 +1,14 @@
 ---
-title: Manuscript Title
+title: 'GLEAn: Graphs Learned from Expression for Annotation'
 keywords:
 - markdown
 - publishing
 - manubot
 lang: en-US
-date-meta: '2025-09-05'
+date-meta: '2026-06-24'
 author-meta:
-- John Doe
-- Jane Roe
+- Georgia Doing
+- Julia Oh
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -16,38 +16,37 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
-  <meta name="dc.date" content="2025-09-05" />
-  <meta name="citation_publication_date" content="2025-09-05" />
-  <meta property="article:published_time" content="2025-09-05" />
-  <meta name="dc.modified" content="2025-09-05T17:38:25+00:00" />
-  <meta property="article:modified_time" content="2025-09-05T17:38:25+00:00" />
+  <meta name="dc.title" content="GLEAn: Graphs Learned from Expression for Annotation" />
+  <meta name="citation_title" content="GLEAn: Graphs Learned from Expression for Annotation" />
+  <meta property="og:title" content="GLEAn: Graphs Learned from Expression for Annotation" />
+  <meta property="twitter:title" content="GLEAn: Graphs Learned from Expression for Annotation" />
+  <meta name="dc.date" content="2026-06-24" />
+  <meta name="citation_publication_date" content="2026-06-24" />
+  <meta property="article:published_time" content="2026-06-24" />
+  <meta name="dc.modified" content="2026-06-24T18:14:34+00:00" />
+  <meta property="article:modified_time" content="2026-06-24T18:14:34+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Georgia Doing" />
+  <meta name="citation_author_institution" content="Department of Computer Science, Union College" />
+  <meta name="citation_author_orcid" content="0000-0002-0835-6955" />
+  <meta name="twitter:creator" content="@None" />
+  <meta name="citation_author" content="Julia Oh" />
+  <meta name="citation_author_institution" content="Department of Dermatology, Duke University" />
+  <meta name="citation_author_orcid" content="None" />
   <link rel="canonical" href="https://georgiadoing.github.io/GLEAn_manuscript/" />
   <meta property="og:url" content="https://georgiadoing.github.io/GLEAn_manuscript/" />
   <meta property="twitter:url" content="https://georgiadoing.github.io/GLEAn_manuscript/" />
   <meta name="citation_fulltext_html_url" content="https://georgiadoing.github.io/GLEAn_manuscript/" />
   <meta name="citation_pdf_url" content="https://georgiadoing.github.io/GLEAn_manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://georgiadoing.github.io/GLEAn_manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://georgiadoing.github.io/GLEAn_manuscript/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/" />
-  <meta name="manubot_html_url_versioned" content="https://georgiadoing.github.io/GLEAn_manuscript/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://georgiadoing.github.io/GLEAn_manuscript/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://georgiadoing.github.io/GLEAn_manuscript/v/b67cbcdf3c91384488d624085b78ecdc0d9e499e/" />
+  <meta name="manubot_html_url_versioned" content="https://georgiadoing.github.io/GLEAn_manuscript/v/b67cbcdf3c91384488d624085b78ecdc0d9e499e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://georgiadoing.github.io/GLEAn_manuscript/v/b67cbcdf3c91384488d624085b78ecdc0d9e499e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +68,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://georgiadoing.github.io/GLEAn_manuscript/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/))
+([permalink](https://georgiadoing.github.io/GLEAn_manuscript/v/b67cbcdf3c91384488d624085b78ecdc0d9e499e/))
 was automatically generated
-from [georgiadoing/GLEAn_manuscript@ca748bf](https://github.com/georgiadoing/GLEAn_manuscript/tree/ca748bf4e80a830d7bee69a20b1fae18e028d9e6)
-on September 5, 2025.
+from [georgiadoing/GLEAn_manuscript@b67cbcd](https://github.com/georgiadoing/GLEAn_manuscript/tree/b67cbcdf3c91384488d624085b78ecdc0d9e499e)
+on June 24, 2026.
 </em></small>
 
 
@@ -81,38 +80,30 @@ on September 5, 2025.
 
 
 
-+ **John Doe**
-  <br>
++ **Georgia Doing**
+  ^[✉](#correspondence)^<br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0002-0835-6955](https://orcid.org/0000-0002-0835-6955)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [johndoe](https://twitter.com/johndoe)
-    · ![Mastodon icon](images/mastodon.svg){.inline_icon width=16 height=16}
-    [\@johndoe@mastodon.social](https://mastodon.social/@johndoe)
+    [georgiadoing](https://github.com/georgiadoing)
     <br>
   <small>
-     Department of Something, University of Whatever
+     Department of Computer Science, Union College
      · Funded by Grant XXXXXXXX
   </small>
 
-+ **Jane Roe**
++ **Julia Oh**
   ^[✉](#correspondence)^<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [janeroe](https://github.com/janeroe)
-    <br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Department of Dermatology, Duke University
   </small>
 
 
 ::: {#correspondence}
 ✉ — Correspondence possible via [GitHub Issues](https://github.com/georgiadoing/GLEAn_manuscript/issues)
 or email to
-Jane Roe \<jane.roe@whatever.edu\>.
+Georgia Doing \<gerogia.doing@union.edu\>, 
+Julia Oh \<julia.oh@duke.edu\>.
 
 
 :::
@@ -121,6 +112,13 @@ Jane Roe \<jane.roe@whatever.edu\>.
 ## Abstract {.page_break_before}
 
 
+**Background**: Of the trillions of microbial cells associated with human skin, less than half are identifiable at or below the species level, a quarter are culturable, and only a handful have been isolated for extensive laboratory study. Both species and strain-level genetic diversity are increasingly appreciated as important for microbial community function in healthy and diseases states of the skin. However, while sequencing technologies readily unveil genetic diversity in the skin microbiome, the overwhelming numbers of species, strains, and genes with unknown function limit our ability to interpret available data. 
+
+**Methods**: We have developed a method for the re-analysis of public transcriptomic datasets from multiple strains of *S. aureus* and *S. epidermidis* and the generation of hypotheses for gene functions using unsupervised transfer learning neural networks for data compression and latent feature representation. Further, we have tested consequences of gene knock-down using targeted and genome-wide CRISPR-interference screening as validation of our hypothesis generation methods. 
+
+**Results**:, Using our novel methods we have hypothesized roles for yet uncharacterized conserved and species-specific genes in *S. epidermidis* stress responses including growth under metal depletion and oxidative stress. CRISPRi-interference screening suggests genes identified by our pipeline contribute to growth under these respective stress conditions.
+
+**Discussion**: These methods for identifying microbial gene function are important because they wrangle microbial genetic and transcriptomic diversity to identify novel therapeutic targets and modulators of virulence on the skin.
 
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
@@ -418,6 +416,13 @@ useful for *important information* - [manubot.org](https://manubot.org/)
 <i class="fas fa-ban fa-lg"></i> **Light Red Banner**<br>
 useful for *warnings* - [manubot.org](https://manubot.org/)
 ]{.banner .lightred}
+
+
+## Introduction {.page_break_before}
+
+
+The majority of extant microbial gene content remains uncharacterized 
+
 
 
 ## References {.page_break_before}
